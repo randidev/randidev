@@ -19,7 +19,7 @@
 - 👨🏼‍🎓 Keep learning something new
 - 📥 Reach me via [LinkedIn](https://www.linkedin.com/in/randi-faturrakhman)
 - 💣 Checkout my latest personal projects:
-  - [Auction Online](https://auction.randi-faturrakhman.dev)
+  - [Real-Time Auction Website](https://auction.randi-faturrakhman.dev)
   - [Property Admin](https://property-admin-gray.vercel.app)
 
 #### Current Top Technologies
