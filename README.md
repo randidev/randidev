@@ -13,7 +13,7 @@
 
 <p align='left'>Software Engineer from Indonesia 🇮🇩 and interested in developing software solutions with MERN stack.</p>
 
-- 👨🏼‍💻 I’m currently working at [DigitSense](https://www.digit-sense.com/about-us) as a Technical Lead
+- 👨🏼‍💻 I’m currently working at [DigitSense](https://www.digit-sense.com/about) as a Technical Lead
 - 💻 My most commit message is `git commit -m "Initial commit from Create Next App"` and my most comment is `LGTM`
 - 🔍 Always curious and always thinking about something like `"How they can build this app?"`
 - 👨🏼‍🎓 Keep learning something new
